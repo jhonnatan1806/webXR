@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinese Wooden Stool (Scaniverse)
+* source:	https://sketchfab.com/3d-models/chinese-wooden-stool-scaniverse-000d500df82b44d9879cd604d38ee87b
+* author:	JFN (https://sketchfab.com/db4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinese Wooden Stool (Scaniverse)" (https://sketchfab.com/3d-models/chinese-wooden-stool-scaniverse-000d500df82b44d9879cd604d38ee87b) by JFN (https://sketchfab.com/db4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
